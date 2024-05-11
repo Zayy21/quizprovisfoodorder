@@ -58,7 +58,7 @@ class _HomePageState extends State<HomePage> {
           Padding(
             padding: EdgeInsets.only(left: 15, right: 15),
             child: Text(
-              "Hello Sangvaleap!",
+              "Hello Kelompok 37! (Fahkri & Revan)",
               style: TextStyle(fontSize: 15, fontWeight: FontWeight.w600),
             ),
           ),
